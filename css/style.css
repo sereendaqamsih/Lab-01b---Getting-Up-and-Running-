@@ -1,20 +1,22 @@
-#q1 {
-    background-color: antiquewhite;
-    color: red;
-}
-#q2 {
-    background-color: beige;
-    color: palevioletred;
-}
-#q3 {
-    background-color: silver;
-    color:black;
-
-}
-#q4 {
-    background-color: powderblue;
-    color: purple;
-}
+body {
+    background: beige;
+  }
 #logo {
     width: 50px;
 }
+h1 {
+    color:white;
+    background-color: salmon;
+}
+
+a {
+    text-decoration: none;
+    color: brown;
+    font-style: bold;
+  }
+  li {
+    margin: 130px;
+    color: brown;
+    border: 1px solid brown;
+    display: inline-block;
+  }
